@@ -38,6 +38,19 @@ div { display: block; }
 
 .book p { text-align: justify; }
 
+.footnoteRef { text-decoration: none; }
+
+.figure {
+    width: 100%;
+    text-align: center;
+}
+
+.figure img {
+    padding: 3px;
+    border: solid 1px #EFEFEF;
+    box-shadow: 1px 1px 5px #999;
+}
+
 #navbar {
     position: absolute;
     top: 8px;
