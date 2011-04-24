@@ -11,7 +11,7 @@ main = hakyll $ do
     route idRoute
     compile compressCssCompiler
 
-  match "images/*" $ do
+  match "images/**" $ do
     route idRoute
     compile copyFileCompiler
 
