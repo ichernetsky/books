@@ -1,11 +1,2 @@
-## Haskell generated files
-*.o
-*.hi
-
-
-## Hakyll executable
-hakyll
-
-## Hakyll generated dirs
-_cache/
-_site/
+## Python generated files
+*.pyc
