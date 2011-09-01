@@ -34,15 +34,9 @@
 -  и Бог образов богов, возникших в истории;
 -  и светоч «Я» (Не «Я» — а Христос во мне).
 
-.. raw:: html
+.. container:: signature
 
-   <p class="author">
-
-Э. Чистякова.
-
-.. raw:: html
-
-   </p>
+   Э. Чистякова.
 
 1.
 --
@@ -924,13 +918,9 @@ Jch = J.Ch = J.X. = X.J. = Ж = Жизнь
 в культуре, в свободе и в «Я», воскресающем в Духе; мы в Боге родимся, в
 Христе умираем и в Духе Святом возрождаемся.
 
-.. raw:: html
-
-   <pre class="verse">
-   Ex Deo nascimur
-   In Christu morimur
-   Per spiritum Sanctum revivircimus.
-   </pre>
+| Ex Deo nascimur
+| In Christu morimur
+| Per spiritum Sanctum revivircimus.
 
 Павел — священнослужитель; но он не левитского чина; извне — он бунтарь;
 он — разбойник; он — Савл до сих пор ещё (в Ницше и Штирнере); в тайном
@@ -1139,16 +1129,12 @@ Jch = J.Ch = J.X. = X.J. = Ж = Жизнь
 он, принесенными в жертву за мир плотяной; тут сплетается тайна о смерти
 с огромнейшей тайной восстания к жизни: идём через смерть к воскресению.
 
-.. raw:: html
+| Ex Deo nascimur
+| In Christu morimur
+| Per spiritum Sanctum revivircimus.
 
-   <pre class="verse">
-   Ex Deo nascimur
-   In Christu morimur
-   Per spiritum Sanctum revivircimus.
-   </pre>
-
-23 .
-----
+23.
+---
 
 «Мы — дети Божии» — предвозвещает апостол в Послании к Римлянам; нет у
 Петра этой ясно доверчивой ноты к… Отцу, породившему нас в небесах; нет
@@ -1230,22 +1216,18 @@ dame sans mersi». (См. стих Брюсова «La Belle dame sans mersi».)
 
 Тайна лица Моисеева, *личности*, есть тайна «Я».
 
-.. raw:: html
-
-   <pre class="verse">
-   В себе самом распятый,
-   Как мглой небытия —
-   В себе самом разъятый,
-   Светлею светом «Я».
-   В огромном, тёмном мире
-   Рука моя растёт.
-   В бессолнечные шири
-   Я солнечно простёрт.
-   «Я» — это Ты, Грядущий
-   Из дней ко мне — во мне:
-   В раскинутые кущи
-   Под «Ты Еси на небеси».
-   </pre>
+| В себе самом распятый,
+| Как мглой небытия —
+| В себе самом разъятый,
+| Светлею светом «Я».
+| В огромном, тёмном мире
+| Рука моя растёт.
+| В бессолнечные шири
+| Я солнечно простёрт.
+| «Я» — это Ты, Грядущий
+| Из дней ко мне — во мне:
+| В раскинутые кущи
+| Под «Ты Еси на небеси».
 
 «Но умы их ослеплены: ибо то же самое покрывало доныне остаётся неснятым
 при чтении Ветхого Завета, потому что оно снимается Христом. Доныне,
@@ -1358,63 +1340,17 @@ dame sans mersi». (См. стих Брюсова «La Belle dame sans mersi».)
 не тварных под формой *«закона»*. Вот схема, которая нам описует
 поряд(ок) частей слова высшего само-со-знания, Лотоса в нас:
 
-.. raw:: html
+#.
 
-   <p>
-     <ol>
-       <li>
-         <ol>
-           <li>
+   #. Знание (нашего чувствования).
+   #. Знание (нашего воления).
 
-Знание (нашего мышления).
+#.
 
-.. raw:: html
-
-   </li>
-           <li>
-
-Знание (нашего чувствования).
-
-.. raw:: html
-
-   </li>
-           <li>
-
-Знание (нашего воления).
-
-.. raw:: html
-
-   </li>
-         </ol>
-       </li>
-       <li>
-         <ol>
-           <li>
-
-Знание (мысли вне нас: закон природы).
-
-.. raw:: html
-
-   </li>
-           <li>
-
-Знание (чувства вне нас: чувственность, пассивность, тварность,
-плотскость).
-
-.. raw:: html
-
-   </li>
-           <li>
-
-Знание (воли вне нас: материя).
-
-.. raw:: html
-
-   </li>
-         </ol>
-       </li>
-     </ol>
-   </p>
+   #. Знание (мысли вне нас: закон природы).
+   #. Знание (чувства вне нас: чувственность, пассивность, тварность,
+      плотскость).
+   #. Знание (воли вне нас: материя).
 
 Знания эти даются в сознании.
 
@@ -1426,7 +1362,6 @@ dame sans mersi». (См. стих Брюсова «La Belle dame sans mersi».)
 
 .. figure:: /images/bely/na-perevale/evangelie-kak-drama-1.png
    :align: center
-   :alt: 
 
 В Само-со-знании мы проникаемся мыслью о связи *«Само»* с «Челом» Века,
 о связи со- с «вечем» (соборностью, организмом людей) и «знании» со
@@ -1434,7 +1369,6 @@ dame sans mersi». (См. стих Брюсова «La Belle dame sans mersi».)
 
 .. figure:: /images/bely/na-perevale/evangelie-kak-drama-2.png
    :align: center
-   :alt: 
 
 «Само-со-знание», нас выводя из пленения 1) внешнего знания, 2) из
 внешней, формально связующей нормы его, или — со, З) из Само — открывает
@@ -1799,23 +1733,19 @@ dame sans mersi». (См. стих Брюсова «La Belle dame sans mersi».)
 учитель? Всё отнято… Всё только прошлое… Сирая, грустная жизнь: только —
 прошлое живо во мне: Моё прошлое — в Дорнахе.
 
-.. raw:: html
-
-   <pre class="verse">
-   Ich bin aus Gott wie alless Sein geboren,
-   Ich geh im Gott mit allen Mein zu sterben.
-   Ich kehre heim o Gott, als dein zu leben.
-   Erst wurde sus deinen Ich geboren,
-   Dann galt es dies Gegebne zu erwerben,
-   Dir als ein Du es Brust an Brust zu haben
-   Da wollts Stolr es mitter drin werderben,
-   Una es ward dir, und du warst ihm verboren.
-   Bis cass da ubermachtig mich beschworen!
-   Da ward ish dir zum andermal geboren:
-   Denn ich verstand zum arstenigab? zu sterben,
-   Denn isch empland zum erstanmal zu leben
-   Christian Morgens.
-   </pre>
+| Ich bin aus Gott wie alless Sein geboren,
+| Ich geh im Gott mit allen Mein zu sterben.
+| Ich kehre heim o Gott, als dein zu leben.
+| Erst wurde sus deinen Ich geboren,
+| Dann galt es dies Gegebne zu erwerben,
+| Dir als ein Du es Brust an Brust zu haben
+| Da wollts Stolr es mitter drin werderben,
+| Una es ward dir, und du warst ihm verboren.
+| Bis cass da ubermachtig mich beschworen!
+| Da ward ish dir zum andermal geboren:
+| Denn ich verstand zum arstenigab? zu sterben,
+| Denn isch empland zum erstanmal zu leben
+| Christian Morgens.
 
 31.
 ---
@@ -1823,15 +1753,9 @@ dame sans mersi». (См. стих Брюсова «La Belle dame sans mersi».)
 Октябрь: уже холодно. Ветер за окнами: будет зима; будут вновь умирать
 без тепла и без «хлеба насущного» Отче Наш?!
 
-.. raw:: html
+.. container:: signature
 
-   <p class="author">
-
-Москва. Октябрь 1920 года.
-
-.. raw:: html
-
-   </p>
+   Москва. Октябрь 1920 года.
 
 Примечания
 ----------

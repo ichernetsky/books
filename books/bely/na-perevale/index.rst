@@ -28,22 +28,17 @@
 найденные ошибки прошу присылать мне на ``ivan.chernetsky`` на
 ``gmail.com``
 
-.. raw:: html
+.. container:: signature
 
-   <p class="author">
+   Иван Чернецкий.
 
-Иван Чернецкий.
-
-.. raw:: html
-
-   </p>
 
 ----------
 Содержание
 ----------
 
--  `Кризис жизни <krizis-zhizni.rst>`_
--  `Евангелие как драма <evangelie-kak-drama.rst>`_
+-  `Кризис жизни <krizis-zhizni>`_
+-  `Евангелие как драма <evangelie-kak-drama>`_
 
 .. [1]
    http://bugayeff.narod.ru/opera.htm

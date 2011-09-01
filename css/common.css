@@ -64,3 +64,20 @@ strong { font-weight: bold; }
 }
 
 .align-center { text-align: center; }
+
+.signature {
+    text-align: right;
+    font-style: italic;
+}
+
+.line-block {
+    font-size: 82%;
+    margin-left: 20%;
+}
+
+.verse-signature {
+    font-size: 82%;
+    font-style: italic;
+    margin-top: 1em;
+    margin-left: 40%;
+}
