@@ -4,5 +4,15 @@ runtime: python
 api_version: 1
 
 handlers:
+- url: /css
+  static_dir: css
+
+- url: /js
+  static_dir: js
+
+- url: /images/(.*)
+  static_files: images/\1
+  upload: images/(.*)
+
 - url: /.*
   script: books.py
