@@ -38,6 +38,7 @@
 ----------
 
 -  `Кризис жизни <krizis-zhizni>`_
+-  `Кризис мысли <krizis-mysli>`_
 -  `Евангелие как драма <evangelie-kak-drama>`_
 
 .. [1]
