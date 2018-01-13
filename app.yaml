@@ -1,7 +1,6 @@
-application: great-books
-version: 1
-runtime: python
+runtime: python27
 api_version: 1
+threadsafe: true
 
 handlers:
 - url: /css
@@ -15,4 +14,4 @@ handlers:
   upload: images/(.*)
 
 - url: /.*
-  script: books.py
+  script: books.app

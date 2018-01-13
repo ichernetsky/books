@@ -36,11 +36,15 @@ def guess_filename(path):
 def publish_book(path):
     source = file(path, 'r').read()
 
-    settings = { 'config' : None }
+    settings = {
+        'input_encoding': 'utf-8',
+        'output_encoding': 'utf-8',
+        'config' : None
+    }
     os.environ['DOCUTILSCONFIG'] = ''
 
     parts = publish_parts(source=source,
-                          writer_name='html4css1',
+                          writer_name='html',
                           settings_overrides=settings)
 
     important_parts = dict()
@@ -53,7 +57,7 @@ def render_book(parts):
     template_variables = {
         'title' : parts['title'],
         'body'  : parts['body']
-        }
+    }
 
     return template.render(
         os.path.join(get_template_dir(), 'book.html'),
